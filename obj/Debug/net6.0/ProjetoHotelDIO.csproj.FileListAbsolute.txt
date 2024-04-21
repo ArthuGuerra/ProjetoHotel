@@ -1,0 +1,15 @@
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/bin/Debug/net6.0/ProjetoHotelDIO
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/bin/Debug/net6.0/ProjetoHotelDIO.deps.json
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/bin/Debug/net6.0/ProjetoHotelDIO.runtimeconfig.json
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/bin/Debug/net6.0/ProjetoHotelDIO.dll
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/bin/Debug/net6.0/ref/ProjetoHotelDIO.dll
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/bin/Debug/net6.0/ProjetoHotelDIO.pdb
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ProjetoHotelDIO.csproj.AssemblyReference.cache
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ProjetoHotelDIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ProjetoHotelDIO.AssemblyInfoInputs.cache
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ProjetoHotelDIO.AssemblyInfo.cs
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ProjetoHotelDIO.csproj.CoreCompileInputs.cache
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ProjetoHotelDIO.dll
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ref/ProjetoHotelDIO.dll
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ProjetoHotelDIO.pdb
+/home/arthurguerra/Documentos/PraticandoC/ProjetoHotelDIO/obj/Debug/net6.0/ProjetoHotelDIO.genruntimeconfig.cache
