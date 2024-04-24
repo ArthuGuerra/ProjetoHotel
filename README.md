@@ -1,9 +1,9 @@
 # Desafio de Projeto Hotel do bootcamp Dio .NET 
 
-## Projeto onde registro a quantidade de hóspedes na suite, registro os dados de N clientes e depois registro a suite com capacidade determinada.
 
-## Caso a quantidade seja compatível, irá retornar os dados dos clientes com o valor da diária e o preço total da estadia. 
+## É um projeto onde pergunto quantas pessoas irão ficar no hotel e registro os dados de N hóspedes. Em seguida, pergunto a quantidade de diárias e o programa faz a verificação da quantidade de hóspedes. Caso seja maior, retornará um erro. Se não, irá retornar os dados dos hóspedes junto com o valor da diária e o total. 
 
-## Caso contrário, irá retornar uma exceção. 
 
 ## Como parte da proposta, se for 10 ou mais dias, haverá um desconto de 10%. 
+
+
